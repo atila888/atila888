@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ömer Atila</h1>
 <h3 align="center">A passionate BE developer from Turkey</h3>
 
+- 🌱 I’m currently learning **React, React Native and Kubernetes**
+
+- 👨‍💻 My personal web site [omeratila.com](omeratila.com)
+
+- 📫 How to reach me **atila888@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omeratila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omeratila" height="30" width="40" /></a>
