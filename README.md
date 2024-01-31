@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, React Native and Kubernetes**
 
-- 👨‍💻 My personal web site [omeratila.com](omeratila.com)
+- 👨‍💻 My personal web site <a href="http://omeratila.com" target="_blank">omeratila.com</a>
 
 - 📫 How to reach me **atila888@gmail.com**
 
