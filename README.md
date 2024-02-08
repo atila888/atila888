@@ -43,11 +43,16 @@
 
 - Used Technologies: .Net Core, Docker, Oracle, MSSQL, MongoDB, Redis, ASP.NET MVC, Jira, Windows Service, DevExpress, Crystal Report, GIT, TFS
 
+<h4 align="left">Software Developer – Meditek Yazılım (May 2015 – November 2015)</h4>
 
-Software Developer – Meditek Yazılım	  (May 2015 – November 2015)
-	•	Occupational Health and Safety Program
-Modules: Human Resources, Quality Management, Occupational Safety Management, Occupational Health Management.
-•	Used Technologies: .Net, MSSQL, ASP.NET MVC, Windows Service, DevExpress 
-Software Developer – HBC Grup	        (June 2012 – August 2014)
-	•	Company web sites and account program
-•	Used Technologies: .Net, ASP.NET WebForm, MSSQL
+- Occupational Health and Safety Program
+
+- Modules: Human Resources, Quality Management, Occupational Safety Management, Occupational Health Management. 
+
+- Used Technologies: .Net, MSSQL, ASP.NET MVC, Windows Service, DevExpress
+
+<h4 align="left">Software Developer – HBC Grup (June 2012 – August 2014)</h4>
+
+- Company web sites and account program
+
+- Used Technologies: .Net, ASP.NET WebForm, MSSQL
